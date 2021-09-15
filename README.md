@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raza889
-- 👀 I’m interested in React,React native, Vue, anguler, node
-- 🌱 I’m currently learning node
-- 💞️ I’m looking to collaborate on React,React native
+- 👀 I’m interested in React,React native, next, nuxt, Vue, anguler, node, ROR
+- 🌱 I’m currently learning ROR
+- 💞️ I’m looking to collaborate on React,React native, next, Vue
 - 📫 How to reach me at mshoaib889@gmail.com
 
 <!---
